@@ -1,0 +1,15 @@
+body {
+	/* background-image: url("../images/rocky.gif");*/
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	background-color: light grey;
+	text-align: center;
+	
+}
+
+.jumbotron{
+	/*background-color: pink;*/
+	background-image: url("../images/theflyingscotsman3.jpg");
+	color: pink;
+
+}
